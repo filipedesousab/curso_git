@@ -1,5 +1,5 @@
 # Star War Repo
 
-![./tief.png](TIE Fighter)
+![TIE Fighter](./tief.png?raw=true "Title")
 
 Esse repositório serve de exmplo para o curso de Git
